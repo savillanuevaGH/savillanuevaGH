@@ -1,5 +1,5 @@
 
-Hola! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)soy Santiago Villanueva
+Hola! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) soy Santiago Villanueva
 ===========================================================================================================================================
 
 Desarrollador de Software
@@ -43,7 +43,6 @@ API REST de un proyecto institucional que se basa en un 'Sistema de Gestion de P
 ---
 
 ## 📈 Estadísticas de GitHub
-<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/savillanuevaGH"><img src="https://github-readme-stats.vercel.app/api?username=savillanuevaGH&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="savillanuevaGH's GitHub stats" /></a>
 
@@ -70,6 +69,6 @@ API REST de un proyecto institucional que se basa en un 'Sistema de Gestion de P
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=savillanuevaGH&style=flat-square&color=darkslateblue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=savillanuevaGH&style=flat-square&color=blue" alt=""/>
 
 ¡Gracias por visitar mi perfil! 😊 Si tienes alguna pregunta o quieres colaborar en un proyecto, no dudes en contactarme.
